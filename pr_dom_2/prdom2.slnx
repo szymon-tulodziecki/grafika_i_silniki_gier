@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Project Path="Pinwheel.Vista.Runtime.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Pinwheel.Vista.Editor.csproj" />
+  <Project Path="Pinwheel.Vista.BigWorld.Runtime.csproj" />
+  <Project Path="Pinwheel.Vista.BigWorld.Editor.csproj" />
+</Solution>
